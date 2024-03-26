@@ -11,7 +11,7 @@
 - [Scrimba - Learn React](https://scrimba.com/learn/learnreact).
 
 ## Övningar
-Hittar ni i mappen [Övningar]().
+Hittar ni i mappen [Övningar](https://github.com/Santosnr6/lektion_27_mars/tree/main/%C3%96vningar).
 
 ## Liveföreläsning
 Dagens inspelning [hittar ni här](). Lösenord: (ingen föreläsning ute ännu)
