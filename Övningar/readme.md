@@ -52,3 +52,6 @@ Lyssna efter ett klickevent på knappen. Den ska då console.logga vad varje per
 
 ![alt](./assets/splitthenota.png)
 
+## React Bootcamp
+[I detta dokument](https://docs.google.com/document/d/15Ez_E2d3mh7NuDa60A3Lj-4rZZc52eN7I05PhYwtvk8/edit?usp=sharing) finner ni uppgifter som ni nu för kunna utföra (bortsett från den sista delan som innefattar useState vilket vi kommer till nästa vecka).
+

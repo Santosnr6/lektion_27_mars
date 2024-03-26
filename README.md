@@ -9,6 +9,8 @@
 - [NPM-paket](https://www.npmjs.com/).
 - [Thinking in React](https://reactjs.org/docs/thinking-in-react.html).
 - [Scrimba - Learn React](https://scrimba.com/learn/learnreact).
+- [Array.map()](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/map).
+- [Tenary operator](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Conditional_Operator).
 
 ## Övningar
 Hittar ni i mappen [Övningar](https://github.com/Santosnr6/lektion_27_mars/tree/main/%C3%96vningar).
