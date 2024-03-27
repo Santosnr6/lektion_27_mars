@@ -1,7 +1,7 @@
 # Lektion 25 mars
 
 ## Presentation
-- [Props - hur vi delar med oss av information mellan komponenter]().
+- [Props - hur vi delar med oss av information mellan komponenter](https://docs.google.com/presentation/d/10zFdubF-2CyA1_8Uy3tOG4MhCX87Gx0g/edit?usp=sharing&ouid=117251319654116712560&rtpof=true&sd=true).
 
 ## Länkar
 - [Officiell dokumentation](https://reactjs.org/).
