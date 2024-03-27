@@ -1,34 +1,21 @@
 import TodoItem from "./TodoItem";
+import todos from '../assets/todos.json';
 
 function TodoList() {
-    const todos = [
-        {
-            "task" : "Köpa glass",
-            "done": false
-        },
-        {
-            "task" : "Äta glass",
-            "done": false
-        },
-        {
-            "task" : "Städa kattlådan",
-            "done": false
-        },
-        {
-            "task" : "Rasta katten",
-            "done": false
-        },
-        {
-            "task" : "Klappa katten",
-            "done": false
-        }
-    ];
+
+  const handleStatus = (event) => {
+    console.log(event.currentTarget);
+  }
 
   return (
     <ul>
         {
             todos.map((todo, index) => {
-                return <TodoItem todo={ todo } key={ index }/>
+                return <TodoItem 
+                  handleStatus={ handleStatus } 
+                  todo={ todo } 
+                  key={ index }
+                />
             })
         }
     </ul>

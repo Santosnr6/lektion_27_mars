@@ -1,6 +1,15 @@
-function TodoItem({ todo }) {
+function TodoItem({ todo, handleStatus }) {
   return (
-    <li>{ todo.task }</li>
+    <li>
+        { 
+            todo.task
+        }
+        <input 
+            type="checkbox"
+            checked={ todo.done ? true : false }
+            onChange={(event) => handleStatus(event)}
+        />
+    </li>
   )
 }
 
