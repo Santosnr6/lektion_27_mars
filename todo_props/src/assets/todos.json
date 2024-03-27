@@ -1,7 +1,7 @@
 [
     {
         "task" : "Köpa glass",
-        "done": false
+        "done": true
     },
     {
         "task" : "Äta glass",

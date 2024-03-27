@@ -1,14 +1,17 @@
-function TodoItem({ todo, handleStatus }) {
+function TodoItem({ todo, index, handleStatus }) {
   return (
-    <li>
+    <li
+        style={{ backgroundColor: todo.done ? 'green' : 'red' }}
+        onClick={ () => handleStatus(index) }
+    >
         { 
             todo.task
         }
-        <input 
+        {/* <input 
             type="checkbox"
             checked={ todo.done ? true : false }
-            onChange={(event) => handleStatus(event)}
-        />
+            onChange={ () => handleStatus(index) }
+        /> */}
     </li>
   )
 }
